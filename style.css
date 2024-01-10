@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    border: 5px solid darkgoldenrod;
+    
+}
+.meme{
+    
+    text-align: center;
+    
+    
+}
+h1{
+    text-transform:uppercase;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+p{
+    font-family: 'Libre Baskerville', serif;
+
+}
